@@ -1,0 +1,9 @@
+name: MoodyMagicalTrunk
+
+main: me.nomaj.moodymagicaltrunk.Hub
+version: 1.0
+author: nomaj
+api-version: 1.16
+commands:
+  trunk:
+    description: moody trunk
